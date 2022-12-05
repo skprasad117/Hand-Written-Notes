@@ -13,8 +13,8 @@
    - Percentile and Quartiles
    - 5 Number Summary
 
-## Machine Learning https://t.ly/jLDA
-1. Machine Learning 1
+## Machine Learning 
+1. Machine Learning 1 https://t.ly/jLDA
    - Introduction to Machine Learning
    - AI vs ML vs DL vs DS
    - Simple Linear Regression
