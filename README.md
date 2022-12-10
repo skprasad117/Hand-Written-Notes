@@ -18,3 +18,8 @@
    - Introduction to Machine Learning
    - AI vs ML vs DL vs DS
    - Simple Linear Regression
+
+2. Machine Learning 2
+   - Loss Function vs Cost Function
+   - Performance Matrix
+   - OverFitting and UnderFitting
